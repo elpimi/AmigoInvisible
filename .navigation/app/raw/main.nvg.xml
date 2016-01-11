@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "es.virgendelsoterrano.elpimi.amigoinvisible.Main2Activity.MainActivity"/>
+      <point      
+        x = "3660"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "es.virgendelsoterrano.elpimi.amigoinvisible.MainActivity"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "es.virgendelsoterrano.elpimi.amigoinvisible.Main2Activity"/>
+      <point      
+        x = "2048"      
+        y = "108"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
